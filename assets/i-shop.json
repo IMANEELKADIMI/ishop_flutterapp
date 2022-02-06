@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "online-shopping-yqob",
+  "private_key_id": "17bbd263598c7c17093b09392688a8b9e457b1f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC70s6mhfIB+mzo\ndC30fy5v5OBbJ4yx+1VJbqhPPQycBuYyQI0CoQwQqA0iY2oyC6i0582YliTlFhpy\nvQWxcj03yGuRWdCu4sryQYjaMpgXhsjHJnIb1ldgYkp0e9YaqgnjT+Wulfg/t/w4\nU/vxap+PCFdjXFZmykgaHe1hf2XcdBKoVht4sfmFpPA2QCxt8oKm0jFXC/ttSPJB\n1J98v/xswGj0+cfPB+QuxOalLG3HcA/bhwPPNVTCFb1Bb3rAaVxmkZv+pw6WmSeG\nx4ih5sGsvoJi+gqJbsc3Y994Ym5lVITUfAn9dTezRK2zfd2G0WjcCP+2KIJQLg+X\n3cvUYl0RAgMBAAECggEAA5S51ufv3MTLBcWNSL+SAZUiB+rhnlUV47AF6njWADWL\ndwLPDXFHmxuxIGo30JtzTHus6k9Whb2dpHlhHeh5LVKXZm6JcYQmbWb9dneHec9a\njZ14iHpWMSK+m6juxJRgWuKflOwMDx7xYpuLTqeDQkVc8SqGBTCvHjxa1cSJiyHt\nCAd/Lm46OFnlb0yuE13oXerq4TBC/MUR+Kg7fbKNXza8BKyysgZvl4gWRont9dWj\n+n+Ew5mPbkWbQjWh4NH+y7js5ls6nXcF3dgiyD/FyC3Q+fT7hAmfBwZy+ehDdITc\nSOJhw3obRXry+J5bilaVgVuaTf4PK3+QFJ2CxdS5YQKBgQDmT/ZRJTcmBzwhFN5I\nBi4S926KoiEso3/6jGEy/5TsJ1/W01dWSscVRUwY2rHdrpVHXE+5WXAyN+bfSccX\n3JGyOvz4QjB+ZywWJcFhWMN3agugK4aWlhhiK2LdIm9fO8WvotzddtPEyUSwXV/f\nfUjHLghT0KmamT/g/PHBtFgaiQKBgQDQxaxFRSggGoFwVRdxdPxSN8hKLkfj/K+3\nvTHUyckDaU/thwG9e2qUhv1MsITo2/vo8Tu+mpUVdjMPligCgLSbK1SWxVlflqiE\npv2f/BdMUbzJ4dGaDfGukcvxxQx+JoXBeZqIpjWHE8AtxvCUErpY9WHAke6IVIoU\nwOiuk0lsSQKBgCPdxAAzCXmUmtqUA2G4BKjTe5V/Vic7dwyvm9tzTd/Q6e3sj6dS\nkdpQJl+gfx6Et56bU5cLxJstdXjEZoriwJW+9fI7bI3ix0zTqF/ekOIh05mn7Ze5\n3CY9l3HUkP+FsW1+sWKTxLralSXaBLorKpBKLOXQkvkOcJI7EfMWgLnxAoGAbcFe\nPdSLscT9g6bYekc8V6UH4SfPl6ZCYuBOEEY9LVPyNzegzJLTh14oUGcEmL7+AorA\nFAaElhHb6jfQtPAhAuqWv+TkhYJY+dQoxjDrtq3KCIB1hv4JrvLrOyGS3cc2zm41\ntd1birXxdJ9/3vixiw8F4w1VT8rSBPMd4JmCIjECgYEAtHergGMBpPxwYHU/wdzs\nMApSlawBAtl4Sxfnjppz/bhb3AHbXVdZ+OCkH2BOkGB1MZJz/RmXaCFmnVgkgbt+\niKeqQt0BcKAOVQD9fhYDFDDcXa2Irxktmc++s+gQeCZOdvIdeGEqPN4sr33p0JQP\nsSsJKMYYO4mSSvp15I5fIZs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "online@online-shopping-yqob.iam.gserviceaccount.com",
+  "client_id": "111714455526424710891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/online%40online-shopping-yqob.iam.gserviceaccount.com"
+}
